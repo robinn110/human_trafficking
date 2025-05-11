@@ -4,6 +4,8 @@ This analysis aims to provide actionable insights into trafficking trends to sup
 
 The dataset is from The Global Synthetic Dataset: [Link](https://www.ctdatacollaborative.org/page/global-synthetic-dataset#no-back)
 
+[Interactive dashboard link](https://app.fabric.microsoft.com/view?r=eyJrIjoiODVhOWY3OGQtOTFiMy00YzMxLWFiOWUtZGM0ZWViZjk4YTY5IiwidCI6Ijg0NTZjNDAxLTU2MDEtNDUyOS1hNDQ2LWVmZDNkZTMyNmMyMCJ9)
+
 ## Data Cleaning/Preparation 
 -	Missing values: Assess the importance of the blank value, delete the columns with 100% empty value, delete empty rows, fill the blanks with “Unclassified” or “Unknown” to avoid empty cells and maintain the comprehensive analysis.
 
